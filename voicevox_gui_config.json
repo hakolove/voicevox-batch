@@ -1,0 +1,14 @@
+{
+  "speed": 0.9,
+  "pitch": -0.02,
+  "intonation": 1.2,
+  "use_gpu": true,
+  "output_dir": "D:\\voicevox_batch\\done",
+  "window_size": [
+    1458,
+    777
+  ],
+  "last_input_dir": "D:\\voicevox_batch\\11-30",
+  "theme": "light",
+  "gap": 0.6
+}
